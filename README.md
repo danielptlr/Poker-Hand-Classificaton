@@ -7,4 +7,4 @@ To build a model using tensorflow to predict the classes as accurately as possib
 The data set is taken from UCI Machine Learning Repository. (https://archive.ics.uci.edu/ml/datasets/Poker+Hand)
 
 ### Approach
-Used Tensorflow-Keras with ANN to get 97.79% accuracy.
+Used Tensorflow-Keras with ANN to get 98.73% accuracy.
